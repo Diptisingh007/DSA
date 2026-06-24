@@ -48,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Diptisingh007/DSA/tree/master/0802-find-eventual-safe-states) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Diptisingh007/DSA/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Diptisingh007/DSA/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
