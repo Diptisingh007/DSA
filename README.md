@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Diptisingh007/DSA/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Diptisingh007/DSA/tree/master/0136-single-number) |
 | [0542-01-matrix](https://github.com/Diptisingh007/DSA/tree/master/0542-01-matrix) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Diptisingh007/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Diptisingh007/DSA/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Diptisingh007/DSA/tree/master/0136-single-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Diptisingh007/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Hash Table
 |  |
