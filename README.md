@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Diptisingh007/DSA/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/Diptisingh007/DSA/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/Diptisingh007/DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Diptisingh007/DSA/tree/master/0136-single-number) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Diptisingh007/DSA/tree/master/0042-trapping-rain-water) |
 | [0542-01-matrix](https://github.com/Diptisingh007/DSA/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Diptisingh007/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Diptisingh007/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -136,11 +138,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Diptisingh007/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Diptisingh007/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Diptisingh007/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Diptisingh007/DSA/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Diptisingh007/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Diptisingh007/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Diptisingh007/DSA/tree/master/0503-next-greater-element-ii) |
 ## Enumeration
@@ -153,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Diptisingh007/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Diptisingh007/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Diptisingh007/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Diptisingh007/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
