@@ -21,7 +21,7 @@ public:
             for(auto &it: adj[node]){
                 int adjNode=it.first;
                 int price=it.second;
-                if(cost+price < dist[adjNode] && step<=k){
+                if(cost+price < dist[adjNode]){
                     dist[adjNode]=cost+price;
                     q.push({step+1,{adjNode,cost+price}});
                 }
