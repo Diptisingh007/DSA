@@ -3,7 +3,7 @@ public:
     int maximumElementAfterDecrementingAndRearranging(vector<int>& arr) {
         int n=arr.size();
         sort(arr.begin(),arr.end());
-        // if(arr[n-1] > n){
+        // if(arr[n-1] >= n){
         //   return n;
         // } 
         // return arr[n-1];
