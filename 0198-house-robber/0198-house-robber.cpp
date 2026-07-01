@@ -15,19 +15,37 @@ public:
     //     vector<int> dp(n+1,-1);
     //     return solve(n-1,nums,dp);
     // }
+    // int rob(vector<int>& nums) {
+    //     int n=nums.size();
+    //     vector<int> dp(n+1,0);
+    //     dp[0]=nums[0];
+    //     for(int i=1;i<n;i++){
+
+    //         int take=nums[i];
+    //         if(i>=2) take=nums[i]+dp[i-2];
+    //         int notake=0+dp[i-1];
+
+    //         dp[i]=max(take,notake);
+    //     }
+
+    //     return dp[n-1];
+    // }
     int rob(vector<int>& nums) {
         int n=nums.size();
-        vector<int> dp(n+1,0);
-        dp[0]=nums[0];
+        // vector<int> dp(n+1,0);
+        int prev1=nums[0];
+        int prev2=0;
         for(int i=1;i<n;i++){
 
             int take=nums[i];
-            if(i>=2) take=nums[i]+dp[i-2];
-            int notake=0+dp[i-1];
+            if(i>=2) take=nums[i]+prev2;
+            int notake=0+prev1;
 
-            dp[i]=max(take,notake);
+            int curr=max(take,notake);
+            prev2=prev1;
+            prev1=curr;
         }
 
-        return dp[n-1];
+        return prev1;;
     }
 };
