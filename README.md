@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Diptisingh007/DSA/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/Diptisingh007/DSA/tree/master/0735-asteroid-collision) |
 | [0827-making-a-large-island](https://github.com/Diptisingh007/DSA/tree/master/0827-making-a-large-island) |
+| [1004-max-consecutive-ones-iii](https://github.com/Diptisingh007/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Diptisingh007/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Diptisingh007/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Diptisingh007/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Diptisingh007/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2381-shifting-letters-ii](https://github.com/Diptisingh007/DSA/tree/master/2381-shifting-letters-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Diptisingh007/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Diptisingh007/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Diptisingh007/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Diptisingh007/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Diptisingh007/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Diptisingh007/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Diptisingh007/DSA/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Diptisingh007/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Diptisingh007/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Memoization
 |  |
