@@ -11,7 +11,7 @@ public:
             maxfreq=max(maxfreq,freq[s[r]-'A']);
 
             int len=r-l+1;
-            while((len-maxfreq)>k){
+            if((len-maxfreq)>k){
                 freq[s[l]-'A']--;
                 maxfreq=0;
                 for(int i=0;i<26;i++){
