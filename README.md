@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Diptisingh007/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Diptisingh007/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Diptisingh007/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Diptisingh007/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/Diptisingh007/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/Diptisingh007/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Diptisingh007/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Diptisingh007/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Diptisingh007/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Diptisingh007/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2381-shifting-letters-ii](https://github.com/Diptisingh007/DSA/tree/master/2381-shifting-letters-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Diptisingh007/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Diptisingh007/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Diptisingh007/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Diptisingh007/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Diptisingh007/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Diptisingh007/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Memoization
 |  |
 | ------- |
