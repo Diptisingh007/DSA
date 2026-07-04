@@ -18,6 +18,8 @@ public:
 
     //     return  dp[ind][sum]=min(pick,notpick);
     // }
+
+
     // int coinChange(vector<int>& coins, int amount) {
     //     int n=coins.size();
     //     vector<vector<int>> dp(n,vector<int>(amount+1,-1));
@@ -27,31 +29,58 @@ public:
     // }
 
 
-    int coinChange(vector<int>& nums, int amount) {
+    // int coinChange(vector<int>& nums, int amount) {
+    //     int n = nums.size();
+    //     vector<vector<int>> dp(n, vector<int>(amount + 1, 1e9));
 
+    //     for (int sum = 0; sum <= amount; sum++) {
+    //         if (sum % nums[0] == 0)
+    //             dp[0][sum] = sum / nums[0];
+    //     }
+
+    //     for (int ind = 1; ind < n; ind++) {
+    //         for (int sum = 0; sum <= amount; sum++) {
+
+    //             int notPick = dp[ind - 1][sum];
+
+    //             int pick = 1e9;
+    //             if (nums[ind] <= sum)
+    //                 pick = 1 + dp[ind][sum - nums[ind]];
+
+    //             dp[ind][sum] = min(pick, notPick);
+    //         }
+    //     }
+
+    //     int ans = dp[n - 1][amount];
+    //     return (ans >= 1e9) ? -1 : ans;
+    // }
+
+
+
+
+    int coinChange(vector<int>& nums, int amount) {
         int n = nums.size();
-        vector<vector<int>> dp(n, vector<int>(amount + 1, 1e9));
+        vector<int> prev(amount + 1, 1e9);
 
         for (int sum = 0; sum <= amount; sum++) {
             if (sum % nums[0] == 0)
-                dp[0][sum] = sum / nums[0];
+                prev[sum] = sum / nums[0];
         }
 
         for (int ind = 1; ind < n; ind++) {
+        vector<int> curr(amount + 1, 1e9);
             for (int sum = 0; sum <= amount; sum++) {
-
-                int notPick = dp[ind - 1][sum];
-
+                int notPick = prev[sum];
                 int pick = 1e9;
                 if (nums[ind] <= sum)
-                    pick = 1 + dp[ind][sum - nums[ind]];
+                    pick = 1 + curr[sum - nums[ind]];
 
-                dp[ind][sum] = min(pick, notPick);
+                curr[sum] = min(pick, notPick);
             }
+            prev=curr;
         }
 
-        int ans = dp[n - 1][amount];
-
+        int ans = prev[amount];
         return (ans >= 1e9) ? -1 : ans;
     }
 };
