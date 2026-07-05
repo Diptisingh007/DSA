@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Diptisingh007/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Diptisingh007/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Diptisingh007/DSA/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/Diptisingh007/DSA/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/Diptisingh007/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Diptisingh007/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/Diptisingh007/DSA/tree/master/0721-accounts-merge) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Diptisingh007/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Diptisingh007/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Diptisingh007/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Diptisingh007/DSA/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/Diptisingh007/DSA/tree/master/0721-accounts-merge) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Diptisingh007/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Diptisingh007/DSA/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Diptisingh007/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Diptisingh007/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Diptisingh007/DSA/tree/master/0904-fruit-into-baskets) |
