@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Diptisingh007/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Diptisingh007/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/Diptisingh007/DSA/tree/master/0721-accounts-merge) |
+| [1143-longest-common-subsequence](https://github.com/Diptisingh007/DSA/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Diptisingh007/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Diptisingh007/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2381-shifting-letters-ii](https://github.com/Diptisingh007/DSA/tree/master/2381-shifting-letters-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Diptisingh007/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Diptisingh007/DSA/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Diptisingh007/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/Diptisingh007/DSA/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Diptisingh007/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Diptisingh007/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/Diptisingh007/DSA/tree/master/1463-cherry-pickup-ii) |
