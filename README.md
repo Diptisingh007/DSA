@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Diptisingh007/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Diptisingh007/DSA/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Diptisingh007/DSA/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/Diptisingh007/DSA/tree/master/0115-distinct-subsequences) |
 | [0402-remove-k-digits](https://github.com/Diptisingh007/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Diptisingh007/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/Diptisingh007/DSA/tree/master/0721-accounts-merge) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Diptisingh007/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Diptisingh007/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Diptisingh007/DSA/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Diptisingh007/DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Diptisingh007/DSA/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Diptisingh007/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Diptisingh007/DSA/tree/master/0198-house-robber) |
