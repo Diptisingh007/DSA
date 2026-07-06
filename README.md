@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Diptisingh007/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Diptisingh007/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Diptisingh007/DSA/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Diptisingh007/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Diptisingh007/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Diptisingh007/DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Diptisingh007/DSA/tree/master/0115-distinct-subsequences) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Diptisingh007/DSA/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Diptisingh007/DSA/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Diptisingh007/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Diptisingh007/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Diptisingh007/DSA/tree/master/0064-minimum-path-sum) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Diptisingh007/DSA/tree/master/0044-wildcard-matching) |
 | [0402-remove-k-digits](https://github.com/Diptisingh007/DSA/tree/master/0402-remove-k-digits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Diptisingh007/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
@@ -350,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Diptisingh007/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Diptisingh007/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Diptisingh007/DSA/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
