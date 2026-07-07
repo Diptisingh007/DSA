@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Diptisingh007/DSA/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Diptisingh007/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Diptisingh007/DSA/tree/master/0070-climbing-stairs) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Diptisingh007/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
 | ------- |
