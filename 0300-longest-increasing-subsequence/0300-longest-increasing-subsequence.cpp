@@ -39,19 +39,35 @@ public:
 
 
 
+    // int lengthOfLIS(vector<int>& nums){
+    //     int n=nums.size();
+    //     vector<int> dp(n,1);
+    //     int ans=0;
+    //     for(int i=0;i<n;i++){
+    //         for(int prev=0;prev<i;prev++){
+    //             if(nums[i]>nums[prev]){
+    //                 dp[i]=max(dp[i],1+dp[prev]);
+    //             }
+    //         }
+    //         ans=max(ans,dp[i]);
+    //     } 
+    //     return ans;
+    // }
+     
     int lengthOfLIS(vector<int>& nums){
         int n=nums.size();
-        vector<int> dp(n,1);
-        int ans=0;
-        for(int i=0;i<n;i++){
-            for(int prev=0;prev<i;prev++){
-                if(nums[i]>nums[prev]){
-                    dp[i]=max(dp[i],1+dp[prev]);
-                }
-            }
-            ans=max(ans,dp[i]);
-        } 
-        return ans;
-    }
+        vector<int> ans;
 
+        ans.push_back(nums[0]);
+        for(int i=1;i<n;i++){
+            if(nums[i]>ans.back()){
+                ans.push_back(nums[i]);
+            }
+            else{
+                int ind=lower_bound(ans.begin(),ans.end(),nums[i])-ans.begin();
+                ans[ind]=nums[i];
+            }
+        }
+        return ans.size();
+    } 
 };
