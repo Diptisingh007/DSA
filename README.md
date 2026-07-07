@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Diptisingh007/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Diptisingh007/DSA/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Diptisingh007/DSA/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/Diptisingh007/DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Diptisingh007/DSA/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/Diptisingh007/DSA/tree/master/0735-asteroid-collision) |
 | [0827-making-a-large-island](https://github.com/Diptisingh007/DSA/tree/master/0827-making-a-large-island) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Diptisingh007/DSA/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/Diptisingh007/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Diptisingh007/DSA/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/Diptisingh007/DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Diptisingh007/DSA/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/Diptisingh007/DSA/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Diptisingh007/DSA/tree/master/0904-fruit-into-baskets) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Diptisingh007/DSA/tree/master/0621-task-scheduler) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Diptisingh007/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Diptisingh007/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Diptisingh007/DSA/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/Diptisingh007/DSA/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Diptisingh007/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Diptisingh007/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Diptisingh007/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -314,11 +318,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Diptisingh007/DSA/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Diptisingh007/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Diptisingh007/DSA/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/Diptisingh007/DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Diptisingh007/DSA/tree/master/0846-hand-of-straights) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Diptisingh007/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Diptisingh007/DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Diptisingh007/DSA/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/Diptisingh007/DSA/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/Diptisingh007/DSA/tree/master/1288-remove-covered-intervals) |
