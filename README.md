@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Diptisingh007/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Diptisingh007/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Diptisingh007/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Diptisingh007/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Diptisingh007/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Diptisingh007/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Diptisingh007/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Diptisingh007/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/Diptisingh007/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Diptisingh007/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Diptisingh007/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Diptisingh007/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/Diptisingh007/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Diptisingh007/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
