@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Diptisingh007/DSA/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Diptisingh007/DSA/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Diptisingh007/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/Diptisingh007/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Diptisingh007/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Diptisingh007/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Diptisingh007/DSA/tree/master/0368-largest-divisible-subset) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Diptisingh007/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Diptisingh007/DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Diptisingh007/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/Diptisingh007/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Diptisingh007/DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Diptisingh007/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Diptisingh007/DSA/tree/master/0416-partition-equal-subset-sum) |
