@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Diptisingh007/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Diptisingh007/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/Diptisingh007/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Diptisingh007/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Diptisingh007/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Diptisingh007/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2381-shifting-letters-ii](https://github.com/Diptisingh007/DSA/tree/master/2381-shifting-letters-ii) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Diptisingh007/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Diptisingh007/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Diptisingh007/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Diptisingh007/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2381-shifting-letters-ii](https://github.com/Diptisingh007/DSA/tree/master/2381-shifting-letters-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Diptisingh007/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Diptisingh007/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Diptisingh007/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Diptisingh007/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/Diptisingh007/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Diptisingh007/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Diptisingh007/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Diptisingh007/DSA/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/Diptisingh007/DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Diptisingh007/DSA/tree/master/0846-hand-of-straights) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Diptisingh007/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Diptisingh007/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Diptisingh007/DSA/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/Diptisingh007/DSA/tree/master/1288-remove-covered-intervals) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Diptisingh007/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Diptisingh007/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Diptisingh007/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
 |  |
@@ -377,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Diptisingh007/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Diptisingh007/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Diptisingh007/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Diptisingh007/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Memoization
 |  |
 | ------- |
