@@ -99,9 +99,9 @@ public:
         }
         
         int ans=0;
-        for(int i=0;i<n*n;i++){
-            ans=max(maxi,ds.size[ds.findUPar(i)]);
-        }
+        // for(int i=0;i<n*n;i++){
+            ans=max(maxi,ds.size[ds.findUPar(0)]);
+        // }
 
         return ans;
     }
