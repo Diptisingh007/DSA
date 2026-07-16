@@ -10,7 +10,7 @@ public:
                 if(text1[i-1]==text2[j-1]){
                     curr[j]=1+prev[j-1];
                 }
-                else {
+                else{
                     curr[j]=max(prev[j], curr[j-1]);
                 }    
             }
