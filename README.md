@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Diptisingh007/DSA/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Diptisingh007/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Diptisingh007/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Diptisingh007/DSA/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Diptisingh007/DSA/tree/master/0368-largest-divisible-subset) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Diptisingh007/DSA/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Diptisingh007/DSA/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Diptisingh007/DSA/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/Diptisingh007/DSA/tree/master/1922-count-good-numbers) |
 ## Linked List
