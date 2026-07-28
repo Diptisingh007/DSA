@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Diptisingh007/DSA/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Diptisingh007/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Diptisingh007/DSA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Diptisingh007/DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Diptisingh007/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Diptisingh007/DSA/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Diptisingh007/DSA/tree/master/0132-palindrome-partitioning-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Diptisingh007/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Diptisingh007/DSA/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Diptisingh007/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Diptisingh007/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Diptisingh007/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Diptisingh007/DSA/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Diptisingh007/DSA/tree/master/0120-triangle) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Diptisingh007/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Diptisingh007/DSA/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Diptisingh007/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Diptisingh007/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Diptisingh007/DSA/tree/master/0130-surrounded-regions) |
 | [0289-game-of-life](https://github.com/Diptisingh007/DSA/tree/master/0289-game-of-life) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Diptisingh007/DSA/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Diptisingh007/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Diptisingh007/DSA/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/Diptisingh007/DSA/tree/master/0210-course-schedule-ii) |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Diptisingh007/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Diptisingh007/DSA/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/Diptisingh007/DSA/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
