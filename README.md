@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Diptisingh007/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Diptisingh007/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/Diptisingh007/DSA/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/Diptisingh007/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Diptisingh007/DSA/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Diptisingh007/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Diptisingh007/DSA/tree/master/0064-minimum-path-sum) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Diptisingh007/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Diptisingh007/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Diptisingh007/DSA/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/Diptisingh007/DSA/tree/master/0494-target-sum) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Diptisingh007/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Diptisingh007/DSA/tree/master/0049-group-anagrams) |
 | [0295-find-median-from-data-stream](https://github.com/Diptisingh007/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Diptisingh007/DSA/tree/master/0347-top-k-frequent-elements) |
