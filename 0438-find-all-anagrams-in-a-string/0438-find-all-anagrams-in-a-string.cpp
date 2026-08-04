@@ -15,7 +15,7 @@ public:
             if(mpp[s[r]]>0) cnt++;
             mpp[s[r]]--;
 
-            while(l<r && (r-l+1)>m){
+            if(l<r && (r-l+1)>m){
                 if(mpp[s[l]]>=0) cnt--;
                 mpp[s[l]]++;
                 l++;
