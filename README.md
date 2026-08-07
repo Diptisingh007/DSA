@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Diptisingh007/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Diptisingh007/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Diptisingh007/DSA/tree/master/2094-finding-3-digit-even-numbers) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Diptisingh007/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2381-shifting-letters-ii](https://github.com/Diptisingh007/DSA/tree/master/2381-shifting-letters-ii) |
 | [2560-house-robber-iv](https://github.com/Diptisingh007/DSA/tree/master/2560-house-robber-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Diptisingh007/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-minimum-absolute-sum-difference](https://github.com/Diptisingh007/DSA/tree/master/1818-minimum-absolute-sum-difference) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Diptisingh007/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/Diptisingh007/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Diptisingh007/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2560-house-robber-iv](https://github.com/Diptisingh007/DSA/tree/master/2560-house-robber-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Diptisingh007/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
