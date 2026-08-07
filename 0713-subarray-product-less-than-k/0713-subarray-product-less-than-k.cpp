@@ -7,7 +7,7 @@ public:
         int prod=1;
         while(r<n){
             prod=prod*nums[r];
-            while(l<=r && prod>(k-1)){
+            while(l<=r && prod>=k){
                 prod=prod/nums[l];
                 l++;
             }
