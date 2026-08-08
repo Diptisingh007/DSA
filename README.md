@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Diptisingh007/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Diptisingh007/DSA/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Diptisingh007/DSA/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Diptisingh007/DSA/tree/master/0566-reshape-the-matrix) |
 | [0621-task-scheduler](https://github.com/Diptisingh007/DSA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Diptisingh007/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Diptisingh007/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Diptisingh007/DSA/tree/master/0130-surrounded-regions) |
 | [0289-game-of-life](https://github.com/Diptisingh007/DSA/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/Diptisingh007/DSA/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Diptisingh007/DSA/tree/master/0566-reshape-the-matrix) |
 | [0827-making-a-large-island](https://github.com/Diptisingh007/DSA/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Diptisingh007/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Diptisingh007/DSA/tree/master/1260-shift-2d-grid) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/Diptisingh007/DSA/tree/master/0289-game-of-life) |
+| [0566-reshape-the-matrix](https://github.com/Diptisingh007/DSA/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/Diptisingh007/DSA/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Diptisingh007/DSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Diptisingh007/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
