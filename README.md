@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Diptisingh007/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Diptisingh007/DSA/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/Diptisingh007/DSA/tree/master/0796-rotate-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Diptisingh007/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/Diptisingh007/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Diptisingh007/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Diptisingh007/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Diptisingh007/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Diptisingh007/DSA/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Diptisingh007/DSA/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Diptisingh007/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
