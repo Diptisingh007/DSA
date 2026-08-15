@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Diptisingh007/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/Diptisingh007/DSA/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/Diptisingh007/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Diptisingh007/DSA/tree/master/0739-daily-temperatures) |
 | [0827-making-a-large-island](https://github.com/Diptisingh007/DSA/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/Diptisingh007/DSA/tree/master/0832-flipping-an-image) |
 | [0846-hand-of-straights](https://github.com/Diptisingh007/DSA/tree/master/0846-hand-of-straights) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Diptisingh007/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Diptisingh007/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Diptisingh007/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Diptisingh007/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Diptisingh007/DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Diptisingh007/DSA/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Diptisingh007/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Diptisingh007/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Diptisingh007/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Diptisingh007/DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Diptisingh007/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Diptisingh007/DSA/tree/master/0901-online-stock-span) |
 ## Enumeration
 |  |
