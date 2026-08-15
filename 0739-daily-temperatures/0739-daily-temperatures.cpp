@@ -6,10 +6,10 @@ public:
         vector<int> ans(n);
         for(int i=0;i<n;i++){
             while(!st.empty() && nums[st.top()]<nums[i]){
-                int a=st.top();
+                int ind=st.top();
                 st.pop();
-                int diff=i-a;
-                ans[a]=diff;
+                int diff=i-ind;
+                ans[ind]=diff;
             }
             st.push(i);
         }
