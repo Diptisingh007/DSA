@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Diptisingh007/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Diptisingh007/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Diptisingh007/DSA/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/Diptisingh007/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Diptisingh007/DSA/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Diptisingh007/DSA/tree/master/0566-reshape-the-matrix) |
 | [0621-task-scheduler](https://github.com/Diptisingh007/DSA/tree/master/0621-task-scheduler) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Diptisingh007/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Diptisingh007/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Diptisingh007/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0518-coin-change-ii](https://github.com/Diptisingh007/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Diptisingh007/DSA/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Diptisingh007/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Diptisingh007/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -763,4 +765,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Diptisingh007/DSA/tree/master/0207-course-schedule) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Diptisingh007/DSA/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Diptisingh007/DSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
