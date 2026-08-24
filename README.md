@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Diptisingh007/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Diptisingh007/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2381-shifting-letters-ii](https://github.com/Diptisingh007/DSA/tree/master/2381-shifting-letters-ii) |
+| [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Diptisingh007/DSA/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Diptisingh007/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Diptisingh007/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Diptisingh007/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Diptisingh007/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Diptisingh007/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Diptisingh007/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Diptisingh007/DSA/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2560-house-robber-iv](https://github.com/Diptisingh007/DSA/tree/master/2560-house-robber-iv) |
 ## Breadth-First Search
 |  |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Diptisingh007/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Diptisingh007/DSA/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Diptisingh007/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Diptisingh007/DSA/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2560-house-robber-iv](https://github.com/Diptisingh007/DSA/tree/master/2560-house-robber-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Diptisingh007/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Diptisingh007/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
