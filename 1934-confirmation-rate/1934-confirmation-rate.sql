@@ -2,7 +2,7 @@
 SELECT 
     s.user_id,
     ROUND(
-        IFNULL(SUM(c.action='confirmed') / COUNT(c.action), 0),
+        IFNULL(sum(c.action='confirmed') / COUNT(c.action), 0),
         2
     ) AS confirmation_rate
 FROM Signups s
