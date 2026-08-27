@@ -15,6 +15,9 @@ public:
     //     vector<int> dp(n+1,-1);
     //     return solve(n-1,nums,dp);
     // }
+
+
+
     // int rob(vector<int>& nums) {
     //     int n=nums.size();
     //     vector<int> dp(n+1,0);
@@ -30,6 +33,11 @@ public:
 
     //     return dp[n-1];
     // }
+
+
+
+
+    
     int rob(vector<int>& nums) {
         int n=nums.size();
         // vector<int> dp(n+1,0);
