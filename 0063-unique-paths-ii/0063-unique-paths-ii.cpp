@@ -47,24 +47,45 @@ public:
 
 
 
+    // int uniquePathsWithObstacles(vector<vector<int>>& nums) {
+    //     int n=nums.size();
+    //     int m=nums[0].size();
+    //     vector<int> prev(m,0);
+
+    //     for(int i=0;i<n;i++){
+    //        vector<int> curr(m,0);
+    //         for(int j=0;j<m;j++){
+    //             if(nums[i][j]==1) curr[j]=0;
+    //             else if(i==0 && j==0) curr[j]=1;
+    //             else{
+    //                 int left=0,up=0;
+    //                if(j>0)  left=curr[j-1];
+    //                if(i>0)  up=prev[j];
+    //                curr[j]=left+up;
+    //             }
+    //         }
+    //         prev=curr;
+    //     }
+    //     return prev[m-1];
+    // }
     int uniquePathsWithObstacles(vector<vector<int>>& nums) {
         int n=nums.size();
         int m=nums[0].size();
         vector<int> prev(m,0);
 
         for(int i=0;i<n;i++){
-           vector<int> curr(m,0);
+        //    vector<int> curr(m,0);
             for(int j=0;j<m;j++){
-                if(nums[i][j]==1) curr[j]=0;
-                else if(i==0 && j==0) curr[j]=1;
+                if(nums[i][j]==1) prev[j]=0;
+                else if(i==0 && j==0) prev[j]=1;
                 else{
                     int left=0,up=0;
-                   if(j>0)  left=curr[j-1];
+                   if(j>0)  left=prev[j-1];
                    if(i>0)  up=prev[j];
-                   curr[j]=left+up;
+                   prev[j]=left+up;
                 }
             }
-            prev=curr;
+            // prev=curr;
         }
         return prev[m-1];
     }
