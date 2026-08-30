@@ -33,13 +33,13 @@ public:
 
         for(int ind=1;ind<n;ind++){
             for(int T=0;T<=amount;T++){
-                 long long  notTake=prev[T];
-                 long long  take=0;
+                long long  notTake=prev[T];
+                long long  take=0;
                 if(coins[ind]<=T){
                     take=prev[T-coins[ind]];
-                 }
+                }
 
-                 prev[T]=(take+notTake);
+                prev[T]=(take+notTake);
             }
         }
         return prev[amount];
