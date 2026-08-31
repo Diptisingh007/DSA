@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Diptisingh007/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Diptisingh007/DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Diptisingh007/DSA/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/Diptisingh007/DSA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Diptisingh007/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Diptisingh007/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Diptisingh007/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Diptisingh007/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Diptisingh007/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Diptisingh007/DSA/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/Diptisingh007/DSA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Diptisingh007/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0368-largest-divisible-subset](https://github.com/Diptisingh007/DSA/tree/master/0368-largest-divisible-subset) |
 | [0390-elimination-game](https://github.com/Diptisingh007/DSA/tree/master/0390-elimination-game) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Diptisingh007/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Diptisingh007/DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Diptisingh007/DSA/tree/master/0127-word-ladder) |
+| [0149-max-points-on-a-line](https://github.com/Diptisingh007/DSA/tree/master/0149-max-points-on-a-line) |
 | [0205-isomorphic-strings](https://github.com/Diptisingh007/DSA/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Diptisingh007/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Diptisingh007/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -806,4 +809,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Diptisingh007/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Diptisingh007/DSA/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Diptisingh007/DSA/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Diptisingh007/DSA/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
