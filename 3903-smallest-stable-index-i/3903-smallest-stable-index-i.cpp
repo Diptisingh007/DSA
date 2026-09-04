@@ -15,7 +15,8 @@ public:
             int b=mini[i];
             int diff=(maxi-b);
             if(diff<=k){
-                ans=min(ans,i);
+                // ans=min(ans,i);
+                return i;
             }
         }
         
