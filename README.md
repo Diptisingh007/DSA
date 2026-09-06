@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Diptisingh007/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Diptisingh007/DSA/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Diptisingh007/DSA/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Diptisingh007/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Diptisingh007/DSA/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Diptisingh007/DSA/tree/master/0149-max-points-on-a-line) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Diptisingh007/DSA/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Diptisingh007/DSA/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Diptisingh007/DSA/tree/master/0060-permutation-sequence) |
 | [0390-elimination-game](https://github.com/Diptisingh007/DSA/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Diptisingh007/DSA/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Diptisingh007/DSA/tree/master/0486-predict-the-winner) |
