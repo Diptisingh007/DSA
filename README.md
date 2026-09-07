@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Diptisingh007/DSA/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/Diptisingh007/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Diptisingh007/DSA/tree/master/0844-backspace-string-compare) |
+| [0940-distinct-subsequences-ii](https://github.com/Diptisingh007/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Diptisingh007/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/Diptisingh007/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Diptisingh007/DSA/tree/master/1143-longest-common-subsequence) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Diptisingh007/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Diptisingh007/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Diptisingh007/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/Diptisingh007/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Diptisingh007/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1092-shortest-common-supersequence](https://github.com/Diptisingh007/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Diptisingh007/DSA/tree/master/1143-longest-common-subsequence) |
