@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3238-find-the-number-of-winning-players](https://github.com/Diptisingh007/DSA/tree/master/3238-find-the-number-of-winning-players) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Diptisingh007/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Diptisingh007/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Diptisingh007/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Diptisingh007/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Diptisingh007/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Diptisingh007/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Diptisingh007/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3238-find-the-number-of-winning-players](https://github.com/Diptisingh007/DSA/tree/master/3238-find-the-number-of-winning-players) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Diptisingh007/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Diptisingh007/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Diptisingh007/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Diptisingh007/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Diptisingh007/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Diptisingh007/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Diptisingh007/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Diptisingh007/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Diptisingh007/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Diptisingh007/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Diptisingh007/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Shortest Path
@@ -748,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Diptisingh007/DSA/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Diptisingh007/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Diptisingh007/DSA/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Diptisingh007/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
