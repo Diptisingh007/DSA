@@ -21,16 +21,14 @@ public:
             }
         }
         
-       vector<int> temp;
-       temp.push_back(nums[lastindex]);
+        vector<int> temp;
+        temp.push_back(nums[lastindex]);
         
         while(hash[lastindex]!=lastindex){
             lastindex=hash[lastindex];
             temp.push_back(nums[lastindex]);
         }
         reverse(temp.begin(),temp.end());
-        
-        
         return temp;
     }
 };
