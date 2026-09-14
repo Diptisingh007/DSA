@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Diptisingh007/DSA/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Diptisingh007/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Diptisingh007/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Diptisingh007/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Diptisingh007/DSA/tree/master/0877-stone-game) |
 | [1922-count-good-numbers](https://github.com/Diptisingh007/DSA/tree/master/1922-count-good-numbers) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Diptisingh007/DSA/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
@@ -837,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Diptisingh007/DSA/tree/master/0149-max-points-on-a-line) |
+| [0836-rectangle-overlap](https://github.com/Diptisingh007/DSA/tree/master/0836-rectangle-overlap) |
 ## Euclidean Algorithm
 |  |
 | ------- |
