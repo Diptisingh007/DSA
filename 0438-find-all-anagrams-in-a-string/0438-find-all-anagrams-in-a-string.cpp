@@ -9,8 +9,8 @@ public:
         }
 
         int l=0,r=0;
-        int cnt=0;
         vector<int> ans;
+        int cnt=0;
         while(r<n){
             if(mpp[s[r]]>0) cnt++;
             mpp[s[r]]--;
@@ -23,6 +23,7 @@ public:
             if(cnt==m){
                 ans.push_back(l);
             }
+
             r++;
         }
 
