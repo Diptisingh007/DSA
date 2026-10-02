@@ -857,4 +857,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Diptisingh007/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Diptisingh007/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
