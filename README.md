@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/Diptisingh007/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2381-shifting-letters-ii](https://github.com/Diptisingh007/DSA/tree/master/2381-shifting-letters-ii) |
 | [2560-house-robber-iv](https://github.com/Diptisingh007/DSA/tree/master/2560-house-robber-iv) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Diptisingh007/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Diptisingh007/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Diptisingh007/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Diptisingh007/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Diptisingh007/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Diptisingh007/DSA/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2560-house-robber-iv](https://github.com/Diptisingh007/DSA/tree/master/2560-house-robber-iv) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Diptisingh007/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Breadth-First Search
 |  |
 | ------- |
