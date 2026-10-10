@@ -4,8 +4,8 @@
     FROM users u
     JOIN movierating m
         ON u.user_id=m.user_id
-    GROUP BY u.user_id
-    ORDER BY COUNT(u.user_id) DESC, u.name ASC 
+    GROUP BY m.user_id
+    ORDER BY COUNT(m.user_id) DESC, u.name ASC 
     LIMIT 1
 )
 UNION ALL
