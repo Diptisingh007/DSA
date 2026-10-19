@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Diptisingh007/DSA/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Diptisingh007/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Diptisingh007/DSA/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Diptisingh007/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Diptisingh007/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Diptisingh007/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Diptisingh007/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Diptisingh007/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Diptisingh007/DSA/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Diptisingh007/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Diptisingh007/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Diptisingh007/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Diptisingh007/DSA/tree/master/0130-surrounded-regions) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Diptisingh007/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/Diptisingh007/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Diptisingh007/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Diptisingh007/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Diptisingh007/DSA/tree/master/0287-find-the-duplicate-number) |
