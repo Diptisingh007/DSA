@@ -21,7 +21,7 @@ public:
         int ans=high;
 
         while(low<=high){
-            int mid=high-(high-low)/2;
+            int mid=low+(high-low)/2;
             
             if(solve(nums,days,mid)){
                 ans=mid;
