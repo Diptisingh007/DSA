@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Diptisingh007/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Diptisingh007/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Diptisingh007/DSA/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Diptisingh007/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Diptisingh007/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Diptisingh007/DSA/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Diptisingh007/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Diptisingh007/DSA/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Diptisingh007/DSA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Diptisingh007/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/Diptisingh007/DSA/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Diptisingh007/DSA/tree/master/0368-largest-divisible-subset) |
 | [0390-elimination-game](https://github.com/Diptisingh007/DSA/tree/master/0390-elimination-game) |
 | [0441-arranging-coins](https://github.com/Diptisingh007/DSA/tree/master/0441-arranging-coins) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Diptisingh007/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Diptisingh007/DSA/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/Diptisingh007/DSA/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Diptisingh007/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Diptisingh007/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Diptisingh007/DSA/tree/master/0832-flipping-an-image) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Diptisingh007/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Diptisingh007/DSA/tree/master/0127-word-ladder) |
 | [0149-max-points-on-a-line](https://github.com/Diptisingh007/DSA/tree/master/0149-max-points-on-a-line) |
 | [0205-isomorphic-strings](https://github.com/Diptisingh007/DSA/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/Diptisingh007/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Diptisingh007/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Diptisingh007/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Diptisingh007/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Diptisingh007/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Diptisingh007/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Diptisingh007/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Diptisingh007/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Diptisingh007/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Diptisingh007/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Diptisingh007/DSA/tree/master/0410-split-array-largest-sum) |
@@ -681,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Diptisingh007/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Diptisingh007/DSA/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/Diptisingh007/DSA/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Diptisingh007/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Diptisingh007/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Diptisingh007/DSA/tree/master/0368-largest-divisible-subset) |
