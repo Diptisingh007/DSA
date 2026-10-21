@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Diptisingh007/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Diptisingh007/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Diptisingh007/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/Diptisingh007/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/Diptisingh007/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Diptisingh007/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Diptisingh007/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Diptisingh007/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Diptisingh007/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Diptisingh007/DSA/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/Diptisingh007/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1922-count-good-numbers](https://github.com/Diptisingh007/DSA/tree/master/1922-count-good-numbers) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Diptisingh007/DSA/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Diptisingh007/DSA/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Diptisingh007/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Diptisingh007/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Diptisingh007/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/Diptisingh007/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Diptisingh007/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Diptisingh007/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Diptisingh007/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Diptisingh007/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Diptisingh007/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/Diptisingh007/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Diptisingh007/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Diptisingh007/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Diptisingh007/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -697,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Diptisingh007/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/Diptisingh007/DSA/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/Diptisingh007/DSA/tree/master/0846-hand-of-straights) |
+| [0973-k-closest-points-to-origin](https://github.com/Diptisingh007/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1122-relative-sort-array](https://github.com/Diptisingh007/DSA/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/Diptisingh007/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Diptisingh007/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -817,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Diptisingh007/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Diptisingh007/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -890,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Diptisingh007/DSA/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/Diptisingh007/DSA/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/Diptisingh007/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -915,4 +922,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Diptisingh007/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Diptisingh007/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Diptisingh007/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Diptisingh007/DSA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
