@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Diptisingh007/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Diptisingh007/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Diptisingh007/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Diptisingh007/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Diptisingh007/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Diptisingh007/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Diptisingh007/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Diptisingh007/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Diptisingh007/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Diptisingh007/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Diptisingh007/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Hash Table
 |  |
 | ------- |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/Diptisingh007/DSA/tree/master/2560-house-robber-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Diptisingh007/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Diptisingh007/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Diptisingh007/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Diptisingh007/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0832-flipping-an-image](https://github.com/Diptisingh007/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Diptisingh007/DSA/tree/master/0844-backspace-string-compare) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Diptisingh007/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Diptisingh007/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
